@@ -47,7 +47,7 @@ public class Etudiant {
 
 	public String getNom() {
 		// TODO Auto-generated method stub
-		return null;-
+		return null;
 	}
 
     
